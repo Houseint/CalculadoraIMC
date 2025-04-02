@@ -1,6 +1,6 @@
 import { StyleSheet, View } from "react-native";
-import Title from "./src/components/title";
-import FormIMC from "./src/components/FormIMC";
+import Title from "./components/title";
+import FormIMC from "./components/FormIMC";
 
 export default function App(){
     return (
