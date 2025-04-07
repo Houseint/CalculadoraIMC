@@ -1,23 +1,22 @@
-import { StatusBar } from "expo-status-bar";
-import { StyleSheet, Text, View } from "react-native";
-import { useState } from 'react';
+import { StyleSheet, View } from "react-native";
+import Title from "./src/components/Title";
+import FormIMC from "./src/components/FormIMC";
 
-export default function App() {
+export default function App(){
     return (
         <View style={styles.container}>
-
-            <Text> Gustavo </Text>
-
-            <StatusBar style="auto" />
+            <Title/>
+            <FormIMC/>
         </View>
-    );
+    )
 }
 
-const styles = StyleSheet.create({
+const styles= StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#fff',
-        alignItems: 'center',
         justifyContent: 'center',
+        padding: 16,
+        backgroundColor: '#fff',
     },
-});
+})
+
