@@ -8,4 +8,4 @@ O projeto em react native com nodejs é uma calculadora de IMC, contando com tí
 
 -----------------------
 
-Vídeo: https://www.mediafire.com/file/plv71wihd50lmng/VID_20250408_213642.mp4/file
+Vídeo: https://youtu.be/4S3bkNNQvPc?feature=shared
