@@ -1,6 +1,6 @@
 Para clonar um projeto do github, primeiro tem que baixar o git bash no pc e configurá-lo com user e email. 
   Depois ir no repositorio no github->botao code-> copiar url do repositório
-    No vsocde abrir o terminal e executar o comando git clone 'url do repositório'.Pronto, repositorio clonado e pronto para trabalhar.
+    No vscode abrir o terminal e executar o comando git clone 'url do repositório'.Pronto, repositorio clonado e pronto para trabalhar.
 
 -----------------------
 
